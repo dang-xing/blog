@@ -27,7 +27,7 @@
       
     </a-layout-header>
     <a-layout-content :style="{ padding: '0 50px', margin: '80px auto 0 auto',width:'1200px', }">
-      <div :style="{ background: '#fff', minHeight: '380px' }">
+      <div :style="{minHeight: '380px' }">
         <nuxt />
       </div>
     </a-layout-content>
